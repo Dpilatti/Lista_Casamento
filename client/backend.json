@@ -1,0 +1,110 @@
+[
+    {
+        "ID": 1,
+        "NAME": "ADRIELI FERNANDA PEREIRA DOS SANTOS",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 2,
+        "NAME": "ALANA LETÍCIA PALU GONÇALVES DE OLIVEIRA",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 3,
+        "NAME": "ÁLISSON BOTTEGA",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 4,
+        "NAME": "DANIEL AUGUSTO PILATTI",
+        "CATEGORY": "Convidado",
+        "STATUS": "presente"
+    },
+    {
+        "ID": 5,
+        "NAME": "DIEGO LIOTTO",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 6,
+        "NAME": "GABRIEL BEZ MENEGOLLA",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 7,
+        "NAME": "GUILHERME JOSÉ LUCAS PRESTES",
+        "CATEGORY": "Convidado",
+        "STATUS": "presente"
+    },
+    {
+        "ID": 8,
+        "NAME": "GUILHERME LUIZ WIECZOREK",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 9,
+        "NAME": "HELER AUGUSTO MENDES ALBUQUERQUE",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 10,
+        "NAME": "HENRY BADALOTTI MODKOWSKI",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 11,
+        "NAME": "JOÃO VITOR PAZA",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 12,
+        "NAME": "JULIA FERREIRA SCHENKEL",
+        "CATEGORY": "Convidado",
+        "STATUS": "presente"
+    },
+    {
+        "ID": 13,
+        "NAME": "LUÍS EDUARDO BALENA ZIEGLER",
+        "CATEGORY": "Convidado",
+        "STATUS": "presente"
+    },
+    {
+        "ID": 14,
+        "NAME": "MARLON MIRANDA JUNIOR",
+        "CATEGORY": "Convidado",
+        "STATUS": "presente"
+    },
+    {
+        "ID": 15,
+        "NAME": "PIETRO AQUILINO FARINA",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 16,
+        "NAME": "SAMUEL JACKSON MACHADO FERREIRA",
+        "CATEGORY": "Convidado",
+        "STATUS": "presente"
+    },
+    {
+        "ID": 17,
+        "NAME": "THAÍS MONTEIRO BUENO",
+        "CATEGORY": "Convidado",
+        "STATUS": "ausente"
+    },
+    {
+        "ID": 18,
+        "NAME": "THIAGO SILVA DE CAMARGO",
+        "CATEGORY": "Convidado",
+        "STATUS": "presente"
+    }
+]
